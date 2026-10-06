@@ -1,0 +1,31 @@
+{
+  "sender_name": "Your name",
+  "sender_email": "",
+  "postal_address": "",
+  "postal_address_confirmed": false,
+  "portfolio_url": "",
+  "portfolio_public_confirmed": false,
+  "attachment": "",
+  "cities": [
+    "Miami",
+    "Fort Lauderdale"
+  ],
+  "search_queries": [
+    "independent CPA accounting firm Miami Florida owner partner",
+    "family owned accounting firm Miami Florida",
+    "independent CPA accounting firm Fort Lauderdale Florida managing partner",
+    "family owned accounting firm Fort Lauderdale Florida"
+  ],
+  "search_requests_per_day": 8,
+  "website_requests_per_day": 100,
+  "hunter_requests_per_day": 40,
+  "daily_send_limit": 10,
+  "max_pages_per_firm": 5,
+  "send_enabled": false,
+  "followup_business_days": 6,
+  "verification_max_age_days": 14,
+  "inbox_sync_max_age_minutes": 15,
+  "send_start_hour": 9,
+  "send_end_hour": 17,
+  "timezone": "America/New_York"
+}

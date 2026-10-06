@@ -2,7 +2,7 @@
 
 A local accounting-firm prospecting and outreach desk with evidence, email verification, exact draft approvals and reply handling.
 
-Created as a source snapshot on October 6, 2026 from Abubakr Mozawalla’s working project and approved Obsidian documentation. The repository describes a personal prototype; it does not claim client results or measured application throughput.
+Implementation source snapshot created October 6, 2026. The repository describes a personal prototype; it does not claim client results or measured application throughput.
 
 ## Architecture
 
@@ -17,3 +17,5 @@ Python 3.11+, standard library. Run `python3 -m outreach.cli serve` and use its 
 ## Export boundaries
 
 The snapshot includes actual implementation code and configuration examples. Databases, applicant information, resumes, account sessions, machine-specific deployment files, emails, prospect records, raw footage and generated media are excluded. Private working copies remain separate.
+
+Personal profiles, contact details, resumes, private account configuration and historical records are not included. Example names and addresses in tests are synthetic.
